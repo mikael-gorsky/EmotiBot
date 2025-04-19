@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emotibot/static/css/main.f9b89625.css",
+    "main.js": "/emotibot/static/js/main.bc1f9ea4.js",
+    "index.html": "/emotibot/index.html",
+    "main.f9b89625.css.map": "/emotibot/static/css/main.f9b89625.css.map",
+    "main.bc1f9ea4.js.map": "/emotibot/static/js/main.bc1f9ea4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9b89625.css",
+    "static/js/main.bc1f9ea4.js"
+  ]
+}
