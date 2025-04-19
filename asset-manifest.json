@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/EmotiBot/static/css/main.04a8e032.css",
-    "main.js": "/EmotiBot/static/js/main.096cf0ca.js",
+    "main.css": "/EmotiBot/static/css/main.55226f90.css",
+    "main.js": "/EmotiBot/static/js/main.1bdde8f1.js",
     "index.html": "/EmotiBot/index.html",
-    "main.04a8e032.css.map": "/EmotiBot/static/css/main.04a8e032.css.map",
-    "main.096cf0ca.js.map": "/EmotiBot/static/js/main.096cf0ca.js.map"
+    "main.55226f90.css.map": "/EmotiBot/static/css/main.55226f90.css.map",
+    "main.1bdde8f1.js.map": "/EmotiBot/static/js/main.1bdde8f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.04a8e032.css",
-    "static/js/main.096cf0ca.js"
+    "static/css/main.55226f90.css",
+    "static/js/main.1bdde8f1.js"
   ]
 }
