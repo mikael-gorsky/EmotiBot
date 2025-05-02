@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/EmotiBot/static/css/main.55226f90.css",
-    "main.js": "/EmotiBot/static/js/main.eff9d137.js",
+    "main.css": "/EmotiBot/static/css/main.48eb5ab2.css",
+    "main.js": "/EmotiBot/static/js/main.7824f6ad.js",
+    "static/js/952.b7d8b693.chunk.js": "/EmotiBot/static/js/952.b7d8b693.chunk.js",
+    "static/media/hit-logo.png": "/EmotiBot/static/media/hit-logo.0dfb44089610173b999f.png",
     "index.html": "/EmotiBot/index.html",
-    "main.55226f90.css.map": "/EmotiBot/static/css/main.55226f90.css.map",
-    "main.eff9d137.js.map": "/EmotiBot/static/js/main.eff9d137.js.map"
+    "main.48eb5ab2.css.map": "/EmotiBot/static/css/main.48eb5ab2.css.map",
+    "main.7824f6ad.js.map": "/EmotiBot/static/js/main.7824f6ad.js.map",
+    "952.b7d8b693.chunk.js.map": "/EmotiBot/static/js/952.b7d8b693.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55226f90.css",
-    "static/js/main.eff9d137.js"
+    "static/css/main.48eb5ab2.css",
+    "static/js/main.7824f6ad.js"
   ]
 }
